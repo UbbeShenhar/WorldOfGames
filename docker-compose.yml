@@ -1,0 +1,10 @@
+version: "3"
+services:
+  flaskapp:
+    build: .
+    image: oramshenhar/flaskappimage:latest
+    ports: 
+     - "5000:5000"
+    #stdin_open: true               # docker run -i
+    #tty: true                      # docker run -t
+    
