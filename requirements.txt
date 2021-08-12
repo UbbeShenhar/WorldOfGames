@@ -1,1 +1,9 @@
-Flask==2.0.1
+libraries\click==8.0.1
+libraries\Flask==2.0.1
+libraries\importlib-metadata==4.6.3
+libraries\itsdangerous==2.0.1
+libraries\Jinja2==3.0.1
+libraries\MarkupSafe==2.0.1
+libraries\typing-extensions==3.10.0.0
+libraries\Werkzeug==2.0.1
+libraries\zipp==3.5.0
