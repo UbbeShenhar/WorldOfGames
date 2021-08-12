@@ -1,4 +1,4 @@
-libraries\\click==8.0.1
+libraries/click==8.0.1
 libraries\Flask==2.0.1
 libraries\importlib-metadata==4.6.3
 libraries\itsdangerous==2.0.1
